@@ -6,9 +6,6 @@ Sou um desenvolvedor focado em criar soluções inteligentes e automações efic
 - 💬 **Fale comigo sobre:** Desenvolvimento de bots, integração de APIs, Node.js, Python e ideias de automação.
 - ⚡ **Fato curioso:** Adoro otimizar processos simples e transformá-los em linhas de código eficientes.
 
-### 🛠️ Tecnologias & Ferramentas
-Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia para dar vida aos projetos:
-
 ### 🌐 Conecte-se Comigo
 Precisa de um bot exclusivo, um site ou uma automação para a sua empresa? Entre em contato através das minhas redes ou diretamente pela minha dm: @abadedeveloper
 
